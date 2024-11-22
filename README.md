@@ -8,7 +8,7 @@ The Commvault Chatbot is an NLP-powered tool designed to help Commvault employee
 With these features, the chatbot improves productivity by delivering fast, context-aware responses to employee queries. It is extensible and can be enhanced for web deployment using the included Flask-based web components.
 
 How to Use:
-First, install all necessary libraries: numpy, pandas, pytorch (torch), NLTK, flask, transformers, scikit-learn, and python's XML library 
-After installing all libraries, run nltk_utils.py and uncomment the "nltk.download()" program to download the necessary nltk packages *You do not need to run it after the first time so you can re-comment or delete it* 
-There is a data.pth file included, but changes to this file are needed, run train.py to create a new one
-To run the app, run app.py
+- First, install all necessary libraries: numpy, pandas, pytorch (torch), NLTK, flask, transformers, scikit-learn, and python's XML library 
+- After installing all libraries, run nltk_utils.py and uncomment the "nltk.download()" program to download the necessary nltk packages *You do not need to run it after the first time so you can re-comment or delete it* 
+- There is a data.pth file included, but changes to this file are needed, run train.py to create a new one
+- To run the app, run app.py
